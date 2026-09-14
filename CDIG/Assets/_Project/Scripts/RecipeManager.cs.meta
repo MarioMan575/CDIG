@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ec8ed5b6b3cf73e42a13795714219478
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - modeloPanSeco: {instanceID: 0}
+  - modeloPanMojado: {instanceID: 0}
+  - modeloPanRebozado: {instanceID: 0}
+  - modeloPanFrito: {instanceID: 0}
+  - modeloPanDulce: {instanceID: 0}
+  - modeloTorrija: {instanceID: 0}
+  - modeloLeche: {instanceID: 0}
+  - modeloHuevo: {instanceID: 0}
+  - modeloAceite: {instanceID: 0}
+  - modeloAzucar: {instanceID: 0}
+  - modeloCanela: {instanceID: 0}
+  - modeloBandeja: {instanceID: 0}
+  - modeloSarten: {instanceID: 0}
+  - modeloSartenLista: {instanceID: 0}
+  - modeloPlato: {instanceID: 0}
+  - modeloMezclaDulce: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

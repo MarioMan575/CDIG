@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="azucar" size="0.100000 0.100000" />
+    <ImageTarget name="plato" size="0.100000 0.100000" />
+    <ImageTarget name="bandeja" size="0.100000 0.100000" />
+    <ImageTarget name="aceite" size="0.100000 0.100000" />
+    <ImageTarget name="pan" size="0.100000 0.100000" />
+    <ImageTarget name="leche" size="0.100000 0.100000" />
+    <ImageTarget name="sarten" size="0.100000 0.100000" />
+    <ImageTarget name="huevo" size="0.100000 0.100000" />
+    <ImageTarget name="canela" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>

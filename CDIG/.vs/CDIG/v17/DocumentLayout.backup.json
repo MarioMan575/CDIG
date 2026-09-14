@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fran\\OneDrive - Universidad Polit\u00E9cnica de Madrid\\Escritorio\\ACTUAL\\CDIG\\PRACTICA 2\\CDIG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8810A-1C82-5714-ADF0-0075D97A72D3}|Assembly-CSharp.csproj|c:\\users\\fran\\onedrive - universidad polit\u00E9cnica de madrid\\escritorio\\actual\\cdig\\practica 2\\cdig\\assets\\_project\\scripts\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E8810A-1C82-5714-ADF0-0075D97A72D3}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\OneDrive - Universidad Polit\u00E9cnica de Madrid\\Escritorio\\ACTUAL\\CDIG\\PRACTICA 2\\CDIG\\Assets\\_Project\\Scripts\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\RecipeManager.cs",
+              "ToolTip": "C:\\Users\\Fran\\OneDrive - Universidad Polit\u00E9cnica de Madrid\\Escritorio\\ACTUAL\\CDIG\\PRACTICA 2\\CDIG\\Assets\\_Project\\Scripts\\RecipeManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\RecipeManager.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:04:23.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
